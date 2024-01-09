@@ -1,2 +1,2 @@
 ## RocX Board
-* [Board] ( ${{ secrets.ROCX_URL }} )
+* [Board] ( https://github.com/orgs/thebandofficial/projects/5)https://github.com/orgs/thebandofficial/projects/5 )
