@@ -1,2 +1,2 @@
 ## RocX Board
-* [Board](${{ secrets.rocxURL }})
+* [Board]( ${{ secrets.rocxURL }} )
